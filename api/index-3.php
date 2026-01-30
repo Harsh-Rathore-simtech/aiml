@@ -1,3 +1,4 @@
+<?php require_once(__DIR__ . "/bootstrap.php"); ?>
 <?php $head_title="Home Three || xafran || xafran PHP Template"?>
 <?php require_once('parts/layout/top-layout.php'); ?>
 <?php require_once('parts/header/header3.php'); ?>
