@@ -12,7 +12,7 @@
                             </div>
                             <div class="feauture-two__single-content">
                                 <h2><a href="#">Eco-Friendly Design</a></h2>
-                                <p>Use environmentally responsible materials such as recycled products, renewable resources, and energy-efficient appliances.</p>
+                                <p>We make design choices that reduce environmental impact while maintaining comfort, quality, and visual balance across every interior.</p>
                             </div>
                         </div>
                     </div>
@@ -29,7 +29,7 @@
                             </div>
                             <div class="feauture-two__single-content">
                                 <h2><a href="#">Durable Furniture</a></h2>
-                                <p>Investing in high-quality, long-lasting furniture reduces waste and frequent replacements. By choosing well-crafted pieces.</p>
+                                <p>We focus on strong construction and quality finishes, ensuring furniture withstands daily use and remains reliable over time.</p>
                             </div>
                         </div>
                     </div>

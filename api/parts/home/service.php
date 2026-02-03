@@ -5,9 +5,9 @@
             <div class="container">
                 <div class="sec-title text-center">
                     <div class="sub-title">
-                        <h5>OUR SERVICE</h5>
+                        <h5>Our Process</h5>
                     </div>
-                    <h2>Important Factors</h2>
+                    <h2>From Idea to Interior</h2>
                 </div>
                 <div class="row">
                     <!--Start Service One Single-->
@@ -15,13 +15,13 @@
                         <div class="service-one__single">
                             <div class="shape1"><img src="assets/img/shape/service-v1-shape1.png" alt=""></div>
                             <div class="service-one__single-inner">
-                                <div class="count-text">04</div>
+                                <div class="count-text">01</div>
                                 <div class="icon-box">
-                                    <span class="icon-construction"></span>
+                                    <i class="fa-solid fa-comments"></i>
                                 </div>
                                 <div class="content-box">
-                                    <h2><a href="#">Lighting</a></h2>
-                                    <p>Good interior lighting is essential for creating a functional, aesthetically pleasing, and comfortable living environment.</p>
+                                    <h2><a href="#">Understand</a></h2>
+                                    <p>We begin by understanding your lifestyle, space, and requirements. This helps us align design decisions with how you actually use the space.</p>
                                 </div>
                             </div>
                         </div>
@@ -33,13 +33,13 @@
                         <div class="service-one__single">
                             <div class="shape1"><img src="assets/img/shape/service-v1-shape1.png" alt=""></div>
                             <div class="service-one__single-inner">
-                                <div class="count-text">05</div>
+                                <div class="count-text">02</div>
                                 <div class="icon-box">
-                                    <span class="icon-construction-machine"></span>
+                                    <i class="fa-solid fa-pencil-ruler"></i>
                                 </div>
                                 <div class="content-box">
-                                    <h2><a href="#">Furniture</a></h2>
-                                    <p>Choose furniture that fits the room size and purpose. Avoid overcrowding or excessive empty space.</p>
+                                    <h2><a href="#">Design</a></h2>
+                                    <p>Based on the brief, we create thoughtful layouts, material selections, and design concepts that balance aesthetics and functionality.</p>
                                 </div>
                             </div>
                         </div>
@@ -51,13 +51,13 @@
                         <div class="service-one__single">
                             <div class="shape1"><img src="assets/img/shape/service-v1-shape1.png" alt=""></div>
                             <div class="service-one__single-inner">
-                                <div class="count-text">06</div>
+                                <div class="count-text">03</div>
                                 <div class="icon-box">
-                                    <span class="icon-check-list"></span>
+                                    <i class="fa-solid fa-tools"></i>
                                 </div>
                                 <div class="content-box">
-                                    <h2><a href="#">Storage</a></h2>
-                                    <p>Interior storage management is crucial for creating an organized, functional, and visually appealing space.</p>
+                                    <h2><a href="#">Build</a></h2>
+                                    <p>Our team brings the design to life with skilled execution, quality materials, and close attention to detail at every stage.</p>
                                 </div>
                             </div>
                         </div>
@@ -69,13 +69,13 @@
                         <div class="service-one__single">
                             <div class="shape1"><img src="assets/img/shape/service-v1-shape1.png" alt=""></div>
                             <div class="service-one__single-inner">
-                                <div class="count-text">07</div>
+                                <div class="count-text">04</div>
                                 <div class="icon-box">
-                                    <span class="icon-interior-design"></span>
+                                    <i class="fa-solid fa-house-circle-check"></i>
                                 </div>
                                 <div class="content-box">
-                                    <h2><a href="#">Sustainability</a></h2>
-                                    <p>Use environmentally responsible materials such as recycled products, renewable resources, and energy-efficient appliances.</p>
+                                    <h2><a href="#">Deliver</a></h2>
+                                    <p>We complete the project with care, ensuring every element is finished, functional, and ready to be lived in.</p>
                                 </div>
                             </div>
                         </div>

@@ -1514,6 +1514,20 @@ Feauture One
     color: var(--thm-white);
 }
 
+.feauture-one__single-bottom .icon-box i {
+    position: relative;
+    display: inline-block;
+    color: var(--thm-primary);
+    font-size: 40px;
+    line-height: 60px;
+    transition: all 200ms linear;
+    transition-delay: 0.1s;
+}
+
+.feauture-one__single:hover .feauture-one__single-bottom .icon-box i {
+    color: var(--thm-white);
+}
+
 
 
 

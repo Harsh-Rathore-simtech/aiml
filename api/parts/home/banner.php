@@ -24,22 +24,15 @@
                                 <div class="main-slider-one__content">
                                     <div class="shape2 float-bob-x"><img src="assets/img/shape/slider-v1-shape2.png"
                                             alt=""></div>
-                                    <h3>Creative</h3>
-                                    <h2>Architecture</h2>
+                                    <h3>SPACES THAT</h3>
+                                    <h2>FEEL LIKE HOME</h2>
                                     <div class="btn-box">
                                         <div class="btn-one">
                                             <a class="thm-btn" href="contact.php">
                                                 <span class="txt">Discover More</span>
                                             </a>
                                         </div>
-                                        <div class="btn-two">
-                                            <a href="https://www.youtube.com/watch?v=pVE92TNDwUk" class="video-popup">
-                                                <div class="main-slider-one__icon">
-                                                    <i class="icon-play-button-1"></i>
-                                                    <span>Watch Our Videos</span>
-                                                </div>
-                                            </a>
-                                        </div>
+                                        
                                     </div>
                                     <div class="contact-info">
                                         <ul>
@@ -87,22 +80,15 @@
                                 <div class="main-slider-one__content">
                                     <div class="shape2 float-bob-x"><img src="assets/img/shape/slider-v1-shape2.png"
                                             alt=""></div>
-                                    <h3>Creative</h3>
-                                    <h2>Architecture</h2>
+                                    <h3>DESIGNED WITH INTENTION</h3>
+                                    <h2>BUILT WITH CARE</h2>
                                     <div class="btn-box">
                                         <div class="btn-one">
                                             <a class="thm-btn" href="contact.php">
                                                 <span class="txt">Discover More</span>
                                             </a>
                                         </div>
-                                        <div class="btn-two">
-                                            <a href="https://www.youtube.com/watch?v=pVE92TNDwUk" class="video-popup">
-                                                <div class="main-slider-one__icon">
-                                                    <i class="icon-play-button-1"></i>
-                                                    <span>Watch Our Videos</span>
-                                                </div>
-                                            </a>
-                                        </div>
+                                        
                                     </div>
                                     <div class="contact-info">
                                         <ul>

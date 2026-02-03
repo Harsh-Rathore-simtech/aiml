@@ -7,12 +7,12 @@
                         <div class="feauture-one__single">
                             <div class="feauture-one__single-text">
                                 <p>FACTOR 01</p>
-                                <h2><a href="#">Space Planning</a></h2>
+                                <h2><a href="#">Thoughtful Design</a></h2>
                             </div>
 
                             <div class="feauture-one__single-bottom">
                                 <div class="icon-box">
-                                    <span class="icon-solution"></span>
+                                    <i class="fa-solid fa-pencil"></i>
                                 </div>
                             </div>
                         </div>
@@ -24,12 +24,12 @@
                         <div class="feauture-one__single">
                             <div class="feauture-one__single-text">
                                 <p>FACTOR 02</p>
-                                <h2><a href="#">Themes & Styles</a></h2>
+                                <h2><a href="#">Quality Craftsmanship</a></h2>
                             </div>
 
                             <div class="feauture-one__single-bottom">
                                 <div class="icon-box">
-                                    <span class="icon-blueprint"></span>
+                                    <i class="fa-solid fa-hammer"></i>
                                 </div>
                             </div>
                         </div>
@@ -41,12 +41,12 @@
                         <div class="feauture-one__single">
                             <div class="feauture-one__single-text">
                                 <p>FACTOR 03</p>
-                                <h2><a href="#">Materials</a></h2>
+                                <h2><a href="#">Timeless Living</a></h2>
                             </div>
 
                             <div class="feauture-one__single-bottom">
                                 <div class="icon-box">
-                                    <span class="icon-office-building"></span>
+                                    <i class="fa-solid fa-house"></i>
                                 </div>
                             </div>
                         </div>

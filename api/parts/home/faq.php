@@ -10,11 +10,11 @@
                         <!-- Start Faq One Single-->
                         <li class="accrodion active wow animated fadeInRight" data-wow-delay="0.1s">
                             <div class="accrodion-title">
-                                <h3>Prioritize Your Needs</h3>
+                                <h3>How does the design process work?</h3>
                             </div>
                             <div class="accrodion-content">
                                 <div class="inner">
-                                    <p>Focus on essentials like furniture and appliances. Invest in high-quality, long-lasting items where necessary.</p>
+                                    <p>We start by understanding your requirements, space, and lifestyle. Based on this, we create design concepts, finalize materials, and then move into execution. You’re involved at every key stage, ensuring clarity and confidence throughout the project.</p>
                                 </div>
                             </div>
                         </li>
@@ -23,11 +23,11 @@
                         <!-- Start Faq One Single-->
                         <li class="accrodion wow animated fadeInRight" data-wow-delay="0.2s">
                             <div class="accrodion-title">
-                                <h3>Set a Realistic Budget</h3>
+                                <h3>Do you handle both design and execution?</h3>
                             </div>
                             <div class="accrodion-content">
                                 <div class="inner">
-                                    <p>Allocate funds for materials, labor, and unforeseen expenses.</p>
+                                    <p>Yes. We offer end-to-end interior solutions — from design and planning to execution and final handover. This ensures better coordination, quality control, and a smoother overall experience.</p>
                                 </div>
                             </div>
                         </li>
@@ -36,11 +36,11 @@
                         <!-- Start Faq One Single-->
                         <li class="accrodion wow animated fadeInRight" data-wow-delay="0.3s">
                             <div class="accrodion-title">
-                                <h3>Explore Affordable Options</h3>
+                                <h3>How long does an interior project usually take?</h3>
                             </div>
                             <div class="accrodion-content">
                                 <div class="inner">
-                                    <p>Repurpose existing furniture, use second-hand items, online marketplaces, and thrift stores.</p>
+                                    <p>Timelines depend on the scope and scale of the project. Once the design and requirements are finalized, we provide a clear timeline and work towards delivering the project as efficiently as possible without compromising on quality.</p>
                                 </div>
                             </div>
                         </li>

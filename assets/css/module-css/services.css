@@ -129,6 +129,22 @@
     color: var(--thm-primary);
 }
 
+.service-one__single-inner .icon-box i {
+    position: relative;
+    display: inline-block;
+    color: var(--thm-white);
+    font-size: 50px;
+    line-height: 75px;
+    transition: all 600ms linear;
+    transition-delay: 0.1s;
+    transform: scale(1);
+}
+
+.service-one__single:hover .service-one__single-inner .icon-box i {
+    transform: scale(0.9);
+    color: var(--thm-primary);
+}
+
 .service-one__single-inner .content-box {
     position: relative;
     display: block;

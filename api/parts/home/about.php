@@ -35,19 +35,13 @@
                             </div>
 
                             <div class="text-box">
-                                <p>Home interior design involves the art and science of enhancing the interior of a space to create a more aesthetically pleasing and functional environment. It encompasses everything from the layout, colours, and furniture to lighting, textures, and accessories.<br><br>
-                                A well-designed interior not only reflects personal style but also maximizes the functionality of the space and supports the well-being of its occupants.</p>
+                                <p>Wooden Magic is an interior design studio focused on creating warm, functional, and thoughtfully designed spaces.
+                                     We believe great interiors are built from within, through careful planning, honest materials, and attention to detail.<br><br>
+                                From concept to execution, we blend design clarity with skilled craftsmanship to transform everyday spaces into interiors that feel balanced, personal, and timeless.
+                               </p>
                             </div>
 
-                            <div class="about-one__content-bottom">
-                                <div class="about-one__content-bottom-author-box">
-                                    <div class="btn-box">
-                                        <a class="thm-btn" href="contact.php">
-                                            <span class="txt">Read More</span>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
+                          
                         </div>
                     </div>
                     <!--End About One Content-->
