@@ -17,22 +17,7 @@
                                         </div>
                                     </div>
 
-                                    <div class="main-header-one__right">
-                                        <div class="header-search-box">
-                                            <a href="#"
-                                                class="main-menu__search search-toggler icon-search-interface-symbol">
-                                            </a>
-                                        </div>
-
-                                        <div class="header-shopping-cart">
-                                            <a href="#"><span class="icon-shopping-cart"></span></a>
-                                        </div>
-                                        <div class="btn-box">
-                                            <a class="thm-btn" href="#">
-                                                <span class="txt">Discover More</span>
-                                            </a>
-                                        </div>
-                                    </div>
+                              
                                 </div>
                             </nav>
                         </div>

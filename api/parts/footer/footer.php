@@ -14,18 +14,17 @@
 
                                 <div class="footer-widget__about-inner">
                                     <div class="text-box">
-                                        <p>Address 301 Princes Street, Ei class <br>
-                                            Mahall Damietta Egypt-104 </p>
+                                        <p>JP Nagar, Bengaluru - 560078</p>
                                     </div>
                                     <div class="number-box">
-                                        <a href="tel:123456789">+1 343 5335 3545</a>
+                                        <a href="tel:123456789">+91 99000 00663</a>
                                     </div>
-                                    <div class="footer-social-link">
+                                    <!-- <div class="footer-social-link">
                                         <a href="#">tw</a>
                                         <a href="#">in</a>
                                         <a href="#">db</a>
                                         <a href="#">ig</a>
-                                    </div>
+                                    </div> -->
                                 </div>
                             </div>
                         </div>
@@ -42,7 +41,7 @@
                                     <ul>
                                         <li><a href="index.php">Home</a></li>
                                         <li><a href="about.php">About Us</a></li>
-                                        <li><a href="service.php">Services</a></li>
+
                                         <li><a href="contact.php">Contact Us</a></li>
                                         <li><a href="blog.php">Our Blog</a></li>
                                     </ul>
@@ -52,52 +51,6 @@
                         </div>
                         <!--End Single Footer Widget-->
 
-                        <!--Start Single Footer Widget-->
-                        <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".3s">
-                            <div class="single-footer-widget footer-widget__links quick-link">
-                                <div class="title">
-                                    <h2>Quick Link</h2>
-                                </div>
-
-                                <div class="footer-widget__links-box">
-                                    <ul>
-                                        <li><a href="contact.php">Help</a></li>
-                                        <li><a href="contact.php">Support</a></li>
-                                        <li><a href="contact.php">Clients</a></li>
-                                        <li><a href="shop.php">Shop</a></li>
-                                        <li><a href="projects.php">Portfolio</a></li>
-                                    </ul>
-                                </div>
-
-                            </div>
-                        </div>
-                        <!--End Single Footer Widget-->
-
-                        <!--Start Single Footer Widget-->
-                        <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".4s">
-                            <div class="single-footer-widget footer-widget__newsletter">
-                                <div class="title">
-                                    <h2>Newsletter</h2>
-                                </div>
-
-                                <div class="footer-widget__newsletter-box">
-                                    <div class="footer-widget__newsletter-text">
-                                        <p>Subscribe our newsletter to get the <br>
-                                            latest news & updates</p>
-                                    </div>
-
-                                    <form class="footer-widget__newsletter-form">
-                                        <div class="input-box">
-                                            <input type="email" placeholder="email@example.com" name="email">
-                                            <button type="submit" class="footer-widget__newsletter-form-btn"><i
-                                                    class="icon-telegram"></i>
-                                            </button>
-                                        </div>
-                                    </form>
-                                </div>
-                            </div>
-                        </div>
-                        <!--End Single Footer Widget-->
                     </div>
                 </div>
             </div>
@@ -108,8 +61,7 @@
                 <div class="container">
                     <div class="footer-bottom__inner">
                         <div class="footer-bottom__text text-center">
-                            <p>Copyright © 2025 Xafran by <a
-                                    href="https://themeforest.net/user/starplate">starplate.</a>
+                            <p>Copyright © 2025 Wood Magic Interiors
                                 All Rights Reserved</p>
                         </div>
                     </div>

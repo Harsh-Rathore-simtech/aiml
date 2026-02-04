@@ -16,10 +16,8 @@ require_once('parts/page-title.php');
                         <div class="col-xl-6 col-lg-6">
                             <div class="contact-page__top-content">
                                 <div class="contact-page__top-content-top">
-                                    <h2>Get in Touch</h2>
-                                    <p>A vast majority of the app marketers mainly concent post-launch app marketing
-                                        techniques and measures while completely missing pre-launch campaign. This
-                                        prevents the </p>
+                                    <h2>Have a space in mind or planning a new interior?</h2>
+                                    <p>We’d love to understand your requirements and help you shape a space that feels thoughtful, functional, and well-crafted. Reach out to us to discuss your project or book a consultation.</p>
                                 </div>
 
                                 <div class="contact-page__top-content-bottom">
@@ -33,7 +31,7 @@ require_once('parts/page-title.php');
 
                                                 <div class="content-box">
                                                     <h4>Address</h4>
-                                                    <p>254, North City, Bulex Center, New York</p>
+                                                    <p>JP Nagar, Bengaluru, Karnataka</p>
                                                 </div>
                                             </div>
                                         </li>
@@ -46,8 +44,7 @@ require_once('parts/page-title.php');
 
                                                 <div class="content-box">
                                                     <h4>Phone</h4>
-                                                    <p><a href="tel:123456789">09 (354) 587 874</a> or <a
-                                                            href="tel:123456789">10 (698) 852 741</a></p>
+                                                    <p><a href="tel:123456789">+91 99000 00663</a></p>
                                                 </div>
                                             </div>
                                         </li>
@@ -60,8 +57,7 @@ require_once('parts/page-title.php');
 
                                                 <div class="content-box">
                                                     <h4>Email</h4>
-                                                    <p><a href="mailto:yourmail@email.com">info@example.com</a>
-                                                        or <a href="mailto:yourmail@email.com">info@example.com</a>
+                                                    <p><a href="mailto:yourmail@email.com">projects@woodenmagic.in</a>
                                                     </p>
                                                 </div>
                                             </div>
@@ -74,7 +70,7 @@ require_once('parts/page-title.php');
                         <div class="col-xl-6 col-lg-6">
                             <div class="contact-page__google-map">
                                 <iframe
-                                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4562.753041141002!2d-118.80123790098536!3d34.152323469614075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80e82469c2162619%3A0xba03efb7998eef6d!2sCostco+Wholesale!5e0!3m2!1sbn!2sbd!4v1562518641290!5m2!1sbn!2sbd"
+                                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31114.241286070217!2d77.57807485000001!3d12.8896982!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae150d7349a72b%3A0xf3d03ea1e1dd3d46!2sJ.%20P.%20Nagar%2C%20Bengaluru%2C%20Karnataka!5e0!3m2!1sen!2sin!4v1770176331998!5m2!1sen!2sin"
                                     class="contact-page-google-map__one" allowfullscreen></iframe>
                             </div>
                         </div>

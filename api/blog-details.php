@@ -12,257 +12,170 @@ require_once('parts/page-title.php');
         <section class="blog-details">
             <div class="container">
                 <div class="row">
-                    <!--Start Blog Sidebar Content-->
-                    <div class="col-xl-8">
+                    <div class="col-xl-12">
                         <div class="blog-details__content">
-                            <div class="blog-details__content-img1">
-                                <img src="assets/img/blog/blog-details-img1.jpg" alt="">
-                            </div>
-
-                            <div class="blog-details__content-text1">
-                                <h2>Easy & Most Powerful Server Platform.</h2>
-                                <p class="text1">March 23, 2022 _ DEVELOPMENT _ BY Katty Olson _ 2 Comments</p>
-                                <p class="text2">With worldwide annual spend on digital advertising surpassing $325
-                                    billion, it’s no
-                                    surprise that different approaches to online marketing are becoming available. One
-                                    of these new approaches is performance marketing or digital performance marketing.
-                                    Keep reading to learn all about performance marketing, from how it works to how it
-                                    compares to digital marketing. Plus, get insight into the benefits and risks of
-                                    performance marketing and how it can affect your company’s long-term success and
-                                    profitability. Performance marketing is an approach to digital marketing or
-                                    advertising where businesses only pay when a specific result occurs. This result
-                                    could be a new lead, sale, or other outcome agreed upon by the advertiser and
-                                    business. Performance marketing involves channels such as affiliate marketing,
-                                    online advertising.</p>
-                            </div>
-
-                            <div class="blog-details__content-img2">
-                                <div class="row">
-                                    <div class="col-xl-6 col-lg-6 col-md-6">
-                                        <div class="blog-details__content-img2-single">
-                                            <img src="assets/img/blog/blog-details-img2.jpg" alt="">
-                                        </div>
+                            
+                            <!-- Blog 1: Designing Homes That Age Well -->
+                            <div class="blog-details__single-item mb-100">
+                                <div class="blog-details__content-img1" style="max-width: 800px; margin-left: auto; margin-right: auto;">
+                                    <img src="assets/img/blog/blog-v1-img1.jpg" alt="Designing Homes That Age Well">
+                                </div>
+                                <div class="blog-details__content-text1">
+                                    <p class="text1">February 04, 2026 _ ARCHITECTURE _ BY ADMIN</p>
+                                    <h2>Designing Homes That Age Well: Why Timeless Interiors Matter</h2>
+                                    <p class="text2">In a world driven by trends, interior design often falls into the trap of short-lived styles. While trendy interiors may look appealing today, they can quickly feel outdated. Timeless interior design focuses on creating homes that remain functional, elegant, and relevant for years — regardless of changing trends.</p>
+                                    <p class="text2">Designing a home that ages well is about making thoughtful decisions that prioritise balance, durability, and comfort.</p>
+                                    
+                                    <div class="blog-details__content-text2 mt-40">
+                                        <h3>What Is Timeless Interior Design?</h3>
+                                        <p>Timeless interiors are not about following a specific style. Instead, they focus on simplicity over excess, functionality over decoration, and quality over quantity. A timeless home adapts to changing lifestyles without requiring frequent renovations.</p>
                                     </div>
 
-                                    <div class="col-xl-6 col-lg-6 col-md-6">
-                                        <div class="blog-details__content-img2-single">
-                                            <img src="assets/img/blog/blog-details-img3.jpg" alt="">
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="blog-details__content-text2">
-                                <h2>Latest Articles Updated Daily</h2>
-                                <p>With worldwide annual spend on digital advertising surpassing $325 billion, it’s no
-                                    surprise that different approaches to online marketing are becoming available. One
-                                    of these new approaches is performance marketing or digital performance marketing.
-                                    Keep reading to learn all about performance marketing</p>
-                            </div>
-
-                            <div class="blog-details__content-text3 text-center">
-                                <div class="icon-box">
-                                    <span class="icon-right-quotation-mark"></span>
-                                </div>
-
-                                <div class="text-box">
-                                    <h4>Diam luctus nostra dapibus varius et semper semper rutrum ad risus felis
-                                        eros. Cursus libero viverra tempus netus diam vestibulum</h4>
-                                    <p>David Backhum</p>
-                                </div>
-                            </div>
-
-                            <div class="blog-details__content-text4">
-                                <div class="tag-box">
-                                    <div class="title">
-                                        <h2>Posted in:</h2>
-                                    </div>
-
-                                    <div class="tag-box-list">
-                                        <ul>
-                                            <li><a href="#">Development</a></li>
-                                            <li><a href="#">Digital</a></li>
-                                            <li><a href="#">Tech</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-
-                                <div class="icon-box">
-                                    <a href="#"><span class="icon-share"></span></a>
-                                </div>
-                            </div>
-
-                            <div class="comment-one">
-                                <h3 class="comment-one__title">Comments (2)</h3>
-                                <div class="comment-one__single">
-                                    <div class="comment-one__image">
-                                        <img src="assets/img/blog/blog-details-img4.jpg" alt="">
-                                    </div>
-                                    <div class="comment-one__content">
-                                        <h3>Saiful Islam</h3>
-                                        <p>It is a long established fact that a reader will be distracted by the
-                                            readable content of a page when looking at its layout. </p>
-                                        <span>February 03. 2023 <a href="#" class="comment-one__btn">Reply</a></span>
-                                    </div>
-                                </div>
-
-                                <div class="comment-one__single">
-                                    <div class="comment-one__image">
-                                        <img src="assets/img/blog/blog-details-img5.jpg" alt="">
-                                    </div>
-                                    <div class="comment-one__content">
-                                        <h3>Jhon Smith</h3>
-                                        <p>There are many variations of passages of Lorem Ipsum available, but the
-                                            majority have suffered alteration in some form.</p>
-                                        <span>February 03. 2023 <a href="#" class="comment-one__btn">Reply</a></span>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="blog-details__content-form">
-                                <div class="title-box">
-                                    <h2>Let’s Get in Touch</h2>
-                                    <p>Your email address will not be published. Required fields are marked *</p>
-                                </div>
-
-                                <form action="assets/inc/sendemail.php"
-                                    class="contact-page__form contact-form-validated">
-                                    <div class="row">
-                                        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
-                                            <div class="contact-page__input-box">
-                                                <input type="text" placeholder="Your Name*" name="name">
+                                    <div class="row mt-40">
+                                        <div class="col-md-6">
+                                            <div class="blog-details__content-text2">
+                                                <h3>Thoughtful Space Planning</h3>
+                                                <p>Good layouts form the backbone of lasting interiors. Well-planned homes improve movement, feel comfortable at different life stages, and avoid clutter.</p>
                                             </div>
                                         </div>
-                                        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
-                                            <div class="contact-page__input-box">
-                                                <input type="email" placeholder="Your Email*" name="email">
+                                        <div class="col-md-6">
+                                            <div class="blog-details__content-text2">
+                                                <h3>Materials and Colours</h3>
+                                                <p>Natural wood, stone, marble, and neutral fabrics age gracefully. Neutral tones like beige and warm whites create calm, balanced spaces.</p>
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="row">
-                                        <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
-                                            <div class="contact-page__input-box">
-                                                <input type="text" placeholder="Website*" name="website">
-                                            </div>
+
+                                    <div class="blog-details__content-text3 text-center mt-50 mb-50">
+                                        <div class="icon-box">
+                                            <span class="icon-right-quotation-mark"></span>
+                                        </div>
+                                        <div class="text-box">
+                                            <h4>"Timeless design isn’t boring — it’s intentional. It maintains aesthetic value and offers better comfort and usability over decades."</h4>
+                                            <p>Smart Investment Insight</p>
                                         </div>
                                     </div>
-                                    <div class="row">
-                                        <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
-                                            <div class="contact-page__input-box">
-                                                <textarea name="message" placeholder="Write Message*"></textarea>
-                                            </div>
-                                            <div class="contact-page__btn">
-                                                <button class="thm-btn" type="submit"
-                                                    data-loading-text="Please wait...">
-                                                    <span class="txt">
-                                                        Send Meassage
-                                                    </span>
-                                                </button>
-                                            </div>
-                                        </div>
+
+                                    <div class="blog-details__content-text2">
+                                        <h3>Conclusion</h3>
+                                        <p>Designing homes that age well means looking beyond trends and focusing on what truly matters: space, materials, and comfort. When done right, timeless interiors continue to feel relevant, welcoming, and refined for years.</p>
                                     </div>
-                                </form>
+                                </div>
                             </div>
+
+                            <hr class="mt-50 mb-100">
+
+                            <!-- Blog 2: Wood in Modern Interiors -->
+                            <div class="blog-details__single-item mb-100">
+                                <div class="blog-details__content-img1" style="max-width: 800px; margin-left: auto; margin-right: auto;">
+                                    <img src="assets/img/blog/blog-v1-img2.jpg" alt="Wood in Modern Interiors">
+                                </div>
+                                <div class="blog-details__content-text1">
+                                    <p class="text1">February 04, 2026 _ INTERIOR DESIGN _ BY ADMIN</p>
+                                    <h2>Wood in Modern Interiors: How to Balance Warmth and Minimalism</h2>
+                                    <p class="text2">Modern interior design is known for clean lines and simplicity, but without the right elements, it can feel cold. Wood adds warmth, texture, and character — making it one of the most effective materials in modern homes. The challenge lies in using wood thoughtfully without overpowering the minimal aesthetic.</p>
+
+                                    <div class="blog-details__content-text2 mt-40">
+                                        <h3>Why Wood Works So Well</h3>
+                                        <p>Wood naturally balances minimal spaces by softening sharp lines, adding visual warmth, and introducing texture without clutter. Its versatility allows it to blend seamlessly into modern design.</p>
+                                    </div>
+
+                                    <div class="row mt-40">
+                                        <div class="col-md-6">
+                                            <div class="blog-details__content-text2">
+                                                <h3>Strategic Placement</h3>
+                                                <ul class="sidebar__category-list" style="background:transparent; padding:0;">
+                                                    <li style="margin-bottom:5px; background:transparent;"><a href="#" style="background:#f7f7f7; font-size:15px; pointer-events:none;">Modular Kitchen Cabinets</a></li>
+                                                    <li style="margin-bottom:5px; background:transparent;"><a href="#" style="background:#f7f7f7; font-size:15px; pointer-events:none;">Wooden Wall Panels</a></li>
+                                                    <li style="margin-bottom:5px; background:transparent;"><a href="#" style="background:#f7f7f7; font-size:15px; pointer-events:none;">Furniture Accents</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="blog-details__content-text2">
+                                                <h3>Finishes and Colours</h3>
+                                                <p>Light wood tones for airy spaces and matte finishes are best for modern interiors. Pairing wood with whites and greys maintains visual balance.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="blog-details__content-text3 text-center mt-50 mb-50">
+                                        <div class="icon-box">
+                                            <span class="icon-right-quotation-mark"></span>
+                                        </div>
+                                        <div class="text-box">
+                                            <h4>"Wood is a sustainable interior choice when responsibly sourced. Using durable, high-quality wood reduces frequent replacements and supports long-term goals."</h4>
+                                            <p>Sustainability and Quality</p>
+                                        </div>
+                                    </div>
+
+                                    <div class="blog-details__content-text2">
+                                        <h3>Conclusion</h3>
+                                        <p>When used thoughtfully, wood transforms modern interiors into warm, inviting spaces while maintaining simplicity. The key lies in balance — allowing wood to enhance, not dominate, the design.</p>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <hr class="mt-50 mb-100">
+
+                            <!-- Blog 3: From Plan to Finish -->
+                            <div class="blog-details__single-item mb-100">
+                                <div class="blog-details__content-img1" style="max-width: 800px; margin-left: auto; margin-right: auto;">
+                                    <img src="assets/img/blog/blog-v1-img3.jpg" alt="From Plan to Finish">
+                                </div>
+                                <div class="blog-details__content-text1">
+                                    <p class="text1">February 04, 2026 _ CONSTRUCTION _ BY ADMIN</p>
+                                    <h2>From Plan to Finish: What Goes Into a Well-Designed Interior</h2>
+                                    <p class="text2">A well-designed interior doesn’t happen by chance. It is the result of careful planning, clear communication, and skilled execution. Understanding the interior design process helps homeowners make informed decisions and achieve better outcomes.</p>
+
+                                    <div class="row mt-40">
+                                        <div class="col-md-4">
+                                            <div class="blog-details__content-text2 text-center" style="background:#f7f7f7; padding:30px; border-bottom: 3px solid var(--thm-primary);">
+                                                <h4 class="mb-2">Step 1</h4>
+                                                <h3>Requirements</h3>
+                                                <p>Understanding client lifestyle, usage, budget, and preferences.</p>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-4">
+                                            <div class="blog-details__content-text2 text-center" style="background:#f7f7f7; padding:30px; border-bottom: 3px solid var(--thm-primary);">
+                                                <h4 class="mb-2">Step 2</h4>
+                                                <h3>Planning</h3>
+                                                <p>Layout, materials, lighting concepts, and furniture planning.</p>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-4">
+                                            <div class="blog-details__content-text2 text-center" style="background:#f7f7f7; padding:30px; border-bottom: 3px solid var(--thm-primary);">
+                                                <h4 class="mb-2">Step 3</h4>
+                                                <h3>Execution</h3>
+                                                <p>Skilled craftsmanship and coordination transform ideas to reality.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="blog-details__content-text2 mt-50">
+                                        <h3>Final Touches: Finishing and Styling</h3>
+                                        <p>Final touches like lighting placement, décor, and styling complete the space. This stage brings harmony and character to the interior. Clear planning prevents costly changes later and ensures durability.</p>
+                                    </div>
+
+                                    <div class="blog-details__content-text3 text-center mt-50 mb-50">
+                                        <div class="icon-box">
+                                            <span class="icon-right-quotation-mark"></span>
+                                        </div>
+                                        <div class="text-box">
+                                            <h4>"A successful interior design project is built on a structured process. Handle each stage thoughtfully for functional and refined results."</h4>
+                                            <p>Design Process Excellence</p>
+                                        </div>
+                                    </div>
+
+                                    <div class="blog-details__content-text2">
+                                        <h3>Conclusion</h3>
+                                        <p>A successful interior design project is built on a structured process — from planning to execution. When each stage is handled thoughtfully, the result is a space that is functional, refined, and built to last.</p>
+                                    </div>
+                                </div>
+                            </div>
+
                         </div>
                     </div>
-                    <!--End Blog Sidebar Content-->
-
-                    <!--Start Sidebar-->
-                    <div class="col-xl-4">
-                        <div class="sidebar">
-                            <!--Start Sidebar Single-->
-                            <div class="sidebar__single sidebar__search">
-                                <h3 class="sidebar__title">Search</h3>
-                                <form action="#" class="sidebar__search-form">
-                                    <input type="search" placeholder="Keywords here....">
-                                    <button type="submit"><i class="fa fa-search"></i></button>
-                                </form>
-                            </div>
-                            <!--End Sidebar Single-->
-
-                            <!--Start Sidebar Single-->
-                            <div class="sidebar__single sidebar__category">
-                                <h3 class="sidebar__title">Categories</h3>
-
-                                <ul class="sidebar__category-list">
-                                    <li><a class="active" href="#">Architecture <span
-                                                class="icon-left-arrow"></span></a></li>
-                                    <li><a href="#">Interior Design <span class="icon-left-arrow"></span></a></li>
-                                    <li><a href="#">Ui/Ux Designing <span class="icon-left-arrow"></span></a></li>
-                                    <li><a href="#">Building Renovation <span class="icon-left-arrow"></span></a></li>
-                                    <li><a href="#">Construction Site <span class="icon-left-arrow"></span></a></li>
-                                    <li><a href="#">Security System <span class="icon-left-arrow"></span></a></li>
-                                </ul>
-                            </div>
-                            <!--End Sidebar Single-->
-
-                            <!--Start Sidebar Single-->
-                            <div class="sidebar__single sidebar__recent-post">
-                                <h3 class="sidebar__title">Recent Post</h3>
-
-                                <ul class="sidebar__recent-post-box">
-                                    <li>
-                                        <div class="inner">
-                                            <div class="img-box">
-                                                <img src="assets/img/blog/sidebar-img1.jpg" alt="">
-                                            </div>
-
-                                            <div class="content-box">
-                                                <h4><a href="#">Keep Your Business <br> Safe
-                                                        Ensure High</a></h4>
-                                                <p><span class="icon-clock"></span> April 21, 2023</p>
-                                            </div>
-                                        </div>
-                                    </li>
-
-                                    <li>
-                                        <div class="inner">
-                                            <div class="img-box">
-                                                <img src="assets/img/blog/sidebar-img2.jpg" alt="">
-                                            </div>
-
-                                            <div class="content-box">
-                                                <h4><a href="#">We’ve Been a Strategy <br>
-                                                        Thought Leader for</a></h4>
-                                                <p><span class="icon-clock"></span> April 21, 2023</p>
-                                            </div>
-                                        </div>
-                                    </li>
-
-                                    <li>
-                                        <div class="inner">
-                                            <div class="img-box">
-                                                <img src="assets/img/blog/sidebar-img3.jpg" alt="">
-                                            </div>
-
-                                            <div class="content-box">
-                                                <h4><a href="#">This Week’s Top <br> Stories
-                                                        About It</a></h4>
-                                                <p><span class="icon-clock"></span> April 21, 2023</p>
-                                            </div>
-                                        </div>
-                                    </li>
-                                </ul>
-                            </div>
-                            <!--End Sidebar Single-->
-
-                            <!--Start Sidebar Single-->
-                            <div class="sidebar__single sidebar__tags">
-                                <h3 class="sidebar__title">Tags</h3>
-                                <ul class="sidebar__tags-list clearfix">
-                                    <li><a href="#">IT Technology</a></li>
-                                    <li><a href="#">Software</a></li>
-                                    <li><a href="#">Design</a></li>
-                                    <li><a href="#">Service</a></li>
-                                    <li><a href="#">Development</a></li>
-                                    <li><a href="#">Digital</a></li>
-                                    <li><a href="#">Cyber</a></li>
-                                </ul>
-                            </div>
-                            <!--End Sidebar Single-->
-                        </div>
-                    </div>
-                    <!--End Sidebar-->
                 </div>
             </div>
         </section>
