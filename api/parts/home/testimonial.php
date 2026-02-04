@@ -29,11 +29,8 @@
                                                 </div>
 
                                                 <div class="text-box">
-                                                    <p>We are an architecture firm with a focus on beautiful but
-                                                        functional design. At its <br> heart, we believe design is about
-                                                        usability and accessibility — these are the guiding <br>
-                                                        principles for our work. Read projects, our <br>
-                                                        process and our team below.</p>
+                                                    <p>Wooden Magic understood our requirements clearly and translated them into a space that feels warm, functional, and thoughtfully designed. The attention to detail and execution quality really stood out.
+</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -51,11 +48,7 @@
                                                 </div>
 
                                                 <div class="text-box">
-                                                    <p>We are an architecture firm with a focus on beautiful but
-                                                        functional design. At its <br> heart, we believe design is about
-                                                        usability and accessibility — these are the guiding <br>
-                                                        principles for our work. Read projects, our <br>
-                                                        process and our team below.</p>
+                                                    <p>From design planning to final delivery, the process was smooth and transparent. The team focused on practicality without compromising on aesthetics, which made a big difference.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -73,11 +66,7 @@
                                                 </div>
 
                                                 <div class="text-box">
-                                                    <p>We are an architecture firm with a focus on beautiful but
-                                                        functional design. At its <br> heart, we believe design is about
-                                                        usability and accessibility — these are the guiding <br>
-                                                        principles for our work. Read projects, our <br>
-                                                        process and our team below.</p>
+                                                    <p>What we appreciated most was their approach to materials and finishes. Everything feels well-crafted and intentional. The end result exceeded our expectations.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -100,8 +89,8 @@
                                             </div>
 
                                             <div class="testimonials-one__thumb-single-text">
-                                                <h2>Annete Black</h2>
-                                                <p>Engineer</p>
+                                                <h2>Rahul Mehta</h2>
+                                                <p>Software Engineer</p>
                                             </div>
                                         </div>
                                     </div><!-- /.swiper-slide -->
@@ -115,8 +104,8 @@
                                             </div>
 
                                             <div class="testimonials-one__thumb-single-text">
-                                                <h2>Robert Hazelhood</h2>
-                                                <p>CEO & Co Founder</p>
+                                                <h2>Neha Kapoor</h2>
+                                                <p>Cafe Owner</p>
                                             </div>
                                         </div>
                                     </div><!-- /.swiper-slide -->
@@ -130,8 +119,8 @@
                                             </div>
 
                                             <div class="testimonials-one__thumb-single-text">
-                                                <h2>Anannya Islam</h2>
-                                                <p>Designer</p>
+                                                <h2>Amit Shamani</h2>
+                                                <p>Event Manager</p>
                                             </div>
                                         </div>
                                     </div><!-- /.swiper-slide -->

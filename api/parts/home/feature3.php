@@ -17,17 +17,13 @@
                     <div class="col-xl-7">
                         <div class="feauture-three__content">
                             <div class="sec-title">
-                                <div class="sub-title">
-                                    <h5>EXPLORE OUR FEAUTURE</h5>
-                                </div>
-                                <h2>We provide the best <br>
-                                    architect & interior design</h2>
+                                
+                                <h2>We provide the best Interior design
+                                    </h2>
                             </div>
 
                             <div class="text-box">
-                                <p>Arki features minimal and stylish design. The theme is well crafted for all the
-                                    modern architect and interior design website. With Arki, it makes your website look
-                                    even more attractive and impressive to</p>
+                                <p>At Wooden Magic, we create interior spaces that balance functionality, warmth, and thoughtful design. From planning to execution, our focus is on quality materials, clean detailing, and interiors that feel comfortable, refined, and built for everyday living.</p>
                             </div>
                             <div class="btn-box">
                                 <a class="thm-btn" href="#">

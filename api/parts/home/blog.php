@@ -3,9 +3,9 @@
             <div class="container">
                 <div class="sec-title text-center">
                     <div class="sub-title">
-                        <h5>OUR BLOG POST</h5>
+                        <h5>Our Blog Posts</h5>
                     </div>
-                    <h2>Read Our Latest News</h2>
+                    <h2>Read Our Latest Blogs</h2>
                 </div>
 
                 <div class="row">
@@ -29,8 +29,7 @@
                                         <p>02 July, 2023</p>
                                     </li>
                                 </ul>
-                                <h2><a href="blog-details.php">Is Architecture a Good Career <br>
-                                        in Our Daily Life? </a></h2>
+                                <h2><a href="blog-details.php">Designing Homes That Age Well: Why Timeless Interiors Matter</a></h2>
                                 <div class="btn-box">
                                     <a href="blog-details.php">READ MORE <span class="icon-left-arrow"></span></a>
                                 </div>
@@ -59,8 +58,7 @@
                                         <p>02 July, 2023</p>
                                     </li>
                                 </ul>
-                                <h2><a href="blog-details.php">Architecture is a Visual Art, and <br>
-                                        the Buildings Speak For</a></h2>
+                                <h2><a href="blog-details.php">Wood in Modern Interiors: How to Balance Warmth and Minimalism</a></h2>
                                 <div class="btn-box">
                                     <a href="blog-details.php">READ MORE <span class="icon-left-arrow"></span></a>
                                 </div>
@@ -89,8 +87,7 @@
                                         <p>02 July, 2023</p>
                                     </li>
                                 </ul>
-                                <h2><a href="blog-details.php">We Stand for Quality, Safety <br>
-                                        Credibility, so You Could be Trust </a></h2>
+                                <h2><a href="blog-details.php">From Plan to Finish: What Goes Into a Well-Designed Interior</a></h2>
                                 <div class="btn-box">
                                     <a href="blog-details.php">READ MORE <span class="icon-left-arrow"></span></a>
                                 </div>
