@@ -7,7 +7,7 @@
                             <div class="header-contact-box">
                                 <ul>
                                     <li><a href="tel:123456789">+91 99000 00663</a></li>
-                                    <li><a href="mailto:yourmail@email.com">projects@woodenmagic.in/a></li>
+                                    <li><a href="mailto:yourmail@email.com">projects@woodenmagic.in</a></li>
                                 </ul>
                             </div>
 

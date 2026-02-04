@@ -41,7 +41,7 @@ require_once('parts/page-title.php');
                                     <p><span>Department:</span> Web Design</p>
                                     <p><span>Experience:</span> 15 Years</p>
                                     <p><span>Email:</span> <a
-                                            href="mailto:yourmail@email.com">projects@woodenmagic.in/a></p>
+                                            href="mailto:yourmail@email.com">projects@woodenmagic.in</a> </p>
                                     <p><span>Phone:</span> <a href="tel:123456789">+1-900-938-4957-43</a></p>
                                 </div>
 

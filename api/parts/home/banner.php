@@ -41,7 +41,7 @@
                                                     <span class="icon-pin"></span>
                                                 </div>
                                                 <div class="text-box">
-                                                    <p>465 NT Road. North West, England</p>
+                                                    <p>JP Nagar, Bengaluru, Karnataka</p>
                                                 </div>
                                             </li>
 
@@ -50,7 +50,7 @@
                                                     <span class="icon-envelope"></span>
                                                 </div>
                                                 <div class="text-box">
-                                                    <p><a href="mailto:yourmail@email.com">needhelpxafran@gmail.cpm</a>
+                                                    <p><a href="mailto:yourmail@email.com">projects@woodenmagic.in</a>
                                                     </p>
                                                 </div>
                                             </li>
@@ -97,7 +97,7 @@
                                                     <span class="icon-pin"></span>
                                                 </div>
                                                 <div class="text-box">
-                                                    <p>465 NT Road. North West, England</p>
+                                                    <p>JP Nagar, Bengaluru, Karnataka</p>
                                                 </div>
                                             </li>
 
@@ -106,7 +106,7 @@
                                                     <span class="icon-envelope"></span>
                                                 </div>
                                                 <div class="text-box">
-                                                    <p><a href="mailto:yourmail@email.com">needhelpxafran@gmail.cpm</a>
+                                                    <p><a href="mailto:yourmail@email.com">projects@woodenmagic.in</a>
                                                     </p>
                                                 </div>
                                             </li>
@@ -152,7 +152,7 @@
                                                     <span class="icon-pin"></span>
                                                 </div>
                                                 <div class="text-box">
-                                                    <p>465 NT Road. North West, England</p>
+                                                    <p>JP Nagar, Bengaluru, Karnataka</p>
                                                 </div>
                                             </li>
 
@@ -161,7 +161,7 @@
                                                     <span class="icon-envelope"></span>
                                                 </div>
                                                 <div class="text-box">
-                                                    <p><a href="mailto:yourmail@email.com">needhelpxafran@gmail.cpm</a>
+                                                    <p><a href="mailto:yourmail@email.com">projects@woodenmagic.in</a>
                                                     </p>
                                                 </div>
                                             </li>
