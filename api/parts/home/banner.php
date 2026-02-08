@@ -17,7 +17,7 @@
                     <div class="swiper-slide">
                         <div class="image-layer" style="background-image: url(assets/img/slider/slider-v1-img1.jpg);">
                         </div>
-                        <div class="shape1"><img src="assets/img/shape/slider-v1-shape1.png" alt=""></div>
+                        <!-- <div class="shape1"><img src="assets/img/shape/slider-v1-shape1.png" alt=""></div> -->
 
                         <div class="container">
                             <div class="main-slider-one__single">
@@ -73,7 +73,7 @@
                     <div class="swiper-slide">
                         <div class="image-layer" style="background-image: url(assets/img/slider/slider-v1-img2.jpg);">
                         </div>
-                        <div class="shape1"><img src="assets/img/shape/slider-v1-shape1.png" alt=""></div>
+                        <!-- <div class="shape1"><img src="assets/img/shape/slider-v1-shape1.png" alt=""></div> -->
 
                         <div class="container">
                             <div class="main-slider-one__single">
@@ -129,7 +129,7 @@
                     <div class="swiper-slide">
                         <div class="image-layer" style="background-image: url(assets/img/slider/slider-v1-img3.jpg);">
                         </div>
-                        <div class="shape1"><img src="assets/img/shape/slider-v1-shape1.png" alt=""></div>
+                        <!-- <div class="shape1"><img src="assets/img/shape/slider-v1-shape1.png" alt=""></div> -->
 
                         <div class="container">
                             <div class="main-slider-one__single">
