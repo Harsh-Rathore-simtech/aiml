@@ -68,6 +68,38 @@
                     </div>
                     <!--End Project One Single-->
                 </div>
+
+                <!-- Acrylic Laminates Banner -->
+                <div class="acrylic-banner-wrapper mt-5 wow fadeInUp" data-wow-delay="0.4s">
+                    <div class="acrylic-banner-image">
+                        <img src="assets/img/resource/Acrylic-Laminates-in-Kitchen.jpg" alt="Acrylic Laminates in Kitchen" class="img-fluid w-100">
+                    </div>
+                </div>
+
+                <style>
+                    .acrylic-banner-wrapper {
+                        width: 100%;
+                        overflow: hidden;
+                        border-radius: 15px;
+                        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+                    }
+                    .acrylic-banner-image img {
+                        width: 100%;
+                        height: auto;
+                        display: block;
+                        object-fit: cover;
+                        transition: transform 0.3s ease;
+                    }
+                    .acrylic-banner-wrapper:hover .acrylic-banner-image img {
+                        transform: scale(1.02);
+                    }
+                    @media (max-width: 768px) {
+                        .acrylic-banner-wrapper {
+                            border-radius: 10px;
+                            margin-top: 30px !important;
+                        }
+                    }
+                </style>
             </div>
         </section>
         <!--End Project One-->
