@@ -1,5 +1,5 @@
 <?php require_once(__DIR__ . "/bootstrap.php"); ?>
-<?php $head_title="Contact | Wood Magic interiors"?>
+<?php $head_title="Contact | Wooden Magic interiors"?>
 <?php require_once('parts/layout/top-layout.php'); ?>
 <!-- header -->
 <?php require_once('parts/header/header4.php'); ?>
@@ -31,7 +31,7 @@ require_once('parts/page-title.php');
 
                                                 <div class="content-box">
                                                     <h4>Address</h4>
-                                                    <p>JP Nagar, Bengaluru, Karnataka</p>
+                                                    <p>989 5th A cross, Outer Ring Rd, HRBR Layout, Kalyan Nagar, Bengaluru, Karnataka 560113</p>
                                                 </div>
                                             </div>
                                         </li>
@@ -44,7 +44,7 @@ require_once('parts/page-title.php');
 
                                                 <div class="content-box">
                                                     <h4>Phone</h4>
-                                                    <p><a href="tel:123456789">+91 99000 00663</a></p>
+                                                    <p><a href="tel:123456789">+91 9986301995</a></p>
                                                 </div>
                                             </div>
                                         </li>

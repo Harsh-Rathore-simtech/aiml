@@ -6,7 +6,7 @@
                         <div class="main-header-four__top-inner">
                             <div class="header-contact-box">
                                 <ul>
-                                    <li><a href="tel:123456789">+91 99000 00663</a></li>
+                                    <li><a href="tel:123456789">+91 9986301995</a></li>
                                     <li><a href="mailto:yourmail@email.com">projects@woodenmagic.in</a></li>
                                 </ul>
                             </div>

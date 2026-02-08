@@ -14,10 +14,10 @@
 
                                 <div class="footer-widget__about-inner">
                                     <div class="text-box">
-                                        <p>JP Nagar, Bengaluru - 560078</p>
+                                        <p>989 5th A cross, Outer Ring Rd, HRBR Layout, Kalyan Nagar, Bengaluru, Karnataka - 560113</p>
                                     </div>
                                     <div class="number-box">
-                                        <a href="tel:123456789">+91 99000 00663</a>
+                                        <a href="tel:123456789">+91 9986301995</a>
                                     </div>
                                     <!-- <div class="footer-social-link">
                                         <a href="#">tw</a>
@@ -61,7 +61,7 @@
                 <div class="container">
                     <div class="footer-bottom__inner">
                         <div class="footer-bottom__text text-center">
-                            <p>Copyright © 2025 Wood Magic Interiors
+                            <p>Copyright © 2025 Wooden Magic Interiors
                                 All Rights Reserved</p>
                         </div>
                     </div>

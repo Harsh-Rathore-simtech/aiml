@@ -92,13 +92,13 @@
                         </div>
                         
                         <div class="package-selection row">
-                            <div class="col-md-4 mb-4">
+                            <div class="col-md-4 col-6 mb-4 package-col">
                                 <div class="package-card active" data-rate="500">
                                     <div class="package-icon">
                                         <i class="fa-solid fa-house"></i>
                                     </div>
-                                    <h4>Basic</h4>
-                                    <p class="rate">₹500 / sqft</p>
+                                    <h4>Essential Living</h4>
+                                    <!-- <p class="rate">₹500 / sqft</p> -->
                                     <ul class="features">
                                         <li><i class="fa-solid fa-check"></i> Essential Woodwork</li>
                                         <li><i class="fa-solid fa-check"></i> Quality Laminates</li>
@@ -106,13 +106,13 @@
                                     </ul>
                                 </div>
                             </div>
-                            <div class="col-md-4 mb-4">
+                            <div class="col-md-4 col-6 mb-4 package-col">
                                 <div class="package-card" data-rate="1500">
                                     <div class="package-icon">
                                         <i class="fa-solid fa-house-chimney-window"></i>
                                     </div>
-                                    <h4>Mid</h4>
-                                    <p class="rate">₹1,500 / sqft</p>
+                                    <h4>Curated Living</h4>
+                                    <!-- <p class="rate">₹1,500 / sqft</p> -->
                                     <ul class="features">
                                         <li><i class="fa-solid fa-check"></i> Premium Woodwork</li>
                                         <li><i class="fa-solid fa-check"></i> High Gloss Finish</li>
@@ -120,13 +120,13 @@
                                     </ul>
                                 </div>
                             </div>
-                            <div class="col-md-4 mb-4">
+                            <div class="col-md-4 col-12 mb-4 package-col package-col-signature">
                                 <div class="package-card" data-rate="2000">
                                     <div class="package-icon">
                                         <i class="fa-solid fa-crown"></i>
                                     </div>
-                                    <h4>Premium</h4>
-                                    <p class="rate">₹2,000 / sqft</p>
+                                    <h4>Signature Living</h4>
+                                    <!-- <p class="rate">₹2,000 / sqft</p> -->
                                     <ul class="features">
                                         <li><i class="fa-solid fa-check"></i> Luxury Woodwork</li>
                                         <li><i class="fa-solid fa-check"></i> PU & Veneer Finish</li>
@@ -136,20 +136,25 @@
                             </div>
                         </div>
 
-                        <div class="calculator-inputs mt-4">
-                            <div class="input-group-container">
-                                <label for="squareFeet">Enter Area (Square Feet)</label>
-                                <div class="input-with-label">
-                                    <input type="number" id="squareFeet" placeholder="e.g. 500" min="0" value="500">
-                                    <span class="unit">sqft</span>
+                        <div class="calculator-bottom-row row mt-4">
+                            <div class="col-md-6 mb-4 mb-md-0">
+                                <div class="calculator-inputs">
+                                    <div class="input-group-container">
+                                        <label for="squareFeet">Enter Area (Square Feet)</label>
+                                        <div class="input-with-label">
+                                            <input type="number" id="squareFeet" placeholder="e.g. 500" min="0" value="500">
+                                            <span class="unit">sqft</span>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-
-                        <div class="calculator-result mt-5 text-center">
-                            <span class="result-label">Estimated Price</span>
-                            <div class="total-price" id="estimatedPrice">₹2,50,000</div>
-                            <p class="disclaimer">*Prices are indicative and may vary based on exact requirements.</p>
+                            <div class="col-md-6">
+                                <div class="calculator-result">
+                                    <span class="result-label">Estimated Price</span>
+                                    <div class="total-price" id="estimatedPrice">₹2,50,000</div>
+                                    <p class="disclaimer">*Prices are indicative and may vary based on exact requirements.</p>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -163,8 +168,9 @@
                     }
 
                     .interior-calculator-wrapper {
-                        max-width: 900px;
-                        margin: 0 auto;
+                        width: 100%;
+                        max-width: 100%;
+                        margin: 0;
                         padding: 40px;
                         background: var(--calc-bg);
                         border-radius: 20px;
@@ -242,15 +248,23 @@
                         margin-right: 8px;
                     }
 
+                    .calculator-bottom-row {
+                        align-items: stretch;
+                    }
+
                     .calculator-inputs {
                         background: #f9f9f9;
                         padding: 30px;
                         border-radius: 15px;
+                        height: 100%;
+                        display: flex;
+                        flex-direction: column;
+                        justify-content: center;
                     }
 
                     .input-group-container {
-                        max-width: 400px;
-                        margin: 0 auto;
+                        max-width: 100%;
+                        margin: 0;
                     }
 
                     .input-group-container label {
@@ -288,8 +302,20 @@
                         font-weight: 600;
                     }
 
+                    .calculator-result {
+                        background: #f9f9f9;
+                        padding: 30px;
+                        border-radius: 15px;
+                        height: 100%;
+                        display: flex;
+                        flex-direction: column;
+                        justify-content: center;
+                        align-items: center;
+                        text-align: center;
+                    }
+
                     .total-price {
-                        font-size: 3.5rem;
+                        font-size: 3rem;
                         font-weight: 800;
                         color: var(--calc-primary);
                         margin: 10px 0;
@@ -312,10 +338,55 @@
 
                     @media (max-width: 768px) {
                         .interior-calculator-wrapper {
+                            padding: 15px;
+                        }
+                        .calculator-inputs,
+                        .calculator-result {
                             padding: 20px;
                         }
                         .total-price {
-                            font-size: 2.5rem;
+                            font-size: 2.2rem;
+                        }
+                        .calculator-header h3 {
+                            font-size: 1.8rem;
+                        }
+                        .package-card {
+                            padding: 20px 15px;
+                        }
+                        .package-card h4 {
+                            font-size: 0.95rem;
+                        }
+                        .rate {
+                            font-size: 0.9rem;
+                        }
+                        .features {
+                            font-size: 0.8rem;
+                        }
+                        .package-col-signature {
+                            max-width: 100%;
+                            flex: 0 0 100%;
+                        }
+                        .package-col-signature .package-card {
+                            flex-direction: row;
+                            text-align: left;
+                            padding: 20px 25px;
+                            gap: 20px;
+                        }
+                        .package-col-signature .package-icon {
+                            font-size: 1.8rem;
+                            margin-bottom: 0;
+                        }
+                        .package-col-signature .package-card h4 {
+                            margin-bottom: 5px;
+                        }
+                        .package-col-signature .rate {
+                            margin-bottom: 0;
+                        }
+                        .package-col-signature .features {
+                            margin-left: auto;
+                        }
+                        .package-col-signature .features li {
+                            margin-bottom: 4px;
                         }
                     }
                 </style>

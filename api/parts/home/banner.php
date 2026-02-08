@@ -41,7 +41,7 @@
                                                     <span class="icon-pin"></span>
                                                 </div>
                                                 <div class="text-box">
-                                                    <p>JP Nagar, Bengaluru, Karnataka</p>
+                                                    <p>989 5th A cross, Outer Ring Rd, HRBR Layout, Kalyan Nagar, Bengaluru, Karnataka - 560113</p>
                                                 </div>
                                             </li>
 
@@ -97,7 +97,7 @@
                                                     <span class="icon-pin"></span>
                                                 </div>
                                                 <div class="text-box">
-                                                    <p>JP Nagar, Bengaluru, Karnataka</p>
+                                                    <p>989 5th A cross, Outer Ring Rd, HRBR Layout, Kalyan Nagar, Bengaluru, Karnataka - 560113</p>
                                                 </div>
                                             </li>
 
@@ -152,7 +152,7 @@
                                                     <span class="icon-pin"></span>
                                                 </div>
                                                 <div class="text-box">
-                                                    <p>JP Nagar, Bengaluru, Karnataka</p>
+                                                    <p>989 5th A cross, Outer Ring Rd, HRBR Layout, Kalyan Nagar, Bengaluru, Karnataka - 560113</p>
                                                 </div>
                                             </li>
 

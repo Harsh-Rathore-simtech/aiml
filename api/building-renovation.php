@@ -1,5 +1,5 @@
 <?php require_once(__DIR__ . "/bootstrap.php"); ?>
-<?php $head_title="Building Renovation | Wood Magic interiors"?>
+<?php $head_title="Building Renovation | Wooden Magic interiors"?>
 <?php require_once('parts/layout/top-layout.php'); ?>
 <!-- header -->
 <?php require_once('parts/header/header4.php'); ?>
