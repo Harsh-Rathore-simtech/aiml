@@ -69,34 +69,72 @@
                     <!--End Project One Single-->
                 </div>
 
-                <!-- Acrylic Laminates Banner -->
-                <div class="acrylic-banner-wrapper mt-5 wow fadeInUp" data-wow-delay="0.4s">
-                    <div class="acrylic-banner-image">
-                        <img src="assets/img/resource/Acrylic-Laminates-in-Kitchen.jpg" alt="Acrylic Laminates in Kitchen" class="img-fluid w-100">
+                <!-- Image Gallery Grid -->
+                <div class="custom-gallery-grid wow fadeInUp" data-wow-delay="0.4s">
+                    <div class="gallery-item">
+                        <img src="assets/img/gallery/1.png" alt="Gallery Image 1">
+                    </div>
+                    <div class="gallery-item">
+                        <img src="assets/img/gallery/2.png" alt="Gallery Image 2">
+                    </div>
+                    <div class="gallery-item">
+                        <img src="assets/img/gallery/3.png" alt="Gallery Image 3">
+                    </div>
+                    <div class="gallery-item">
+                        <img src="assets/img/gallery/4.png" alt="Gallery Image 4">
+                    </div>
+                    <div class="gallery-item">
+                        <img src="assets/img/gallery/5.png" alt="Gallery Image 5">
+                    </div>
+                    <div class="gallery-item">
+                        <img src="assets/img/gallery/6.png" alt="Gallery Image 6">
+                    </div>
+                    <div class="gallery-item">
+                        <img src="assets/img/gallery/7.png" alt="Gallery Image 7">
+                    </div>
+                    <div class="gallery-item">
+                        <img src="assets/img/gallery/8.png" alt="Gallery Image 8">
+                    </div>
+                    <div class="gallery-item">
+                        <img src="assets/img/gallery/9.png" alt="Gallery Image 9">
                     </div>
                 </div>
 
                 <style>
-                    .acrylic-banner-wrapper {
+                    .custom-gallery-grid {
+                        display: grid;
+                        grid-template-columns: repeat(3, 1fr);
+                        gap: 20px;
+                        margin-top: 50px;
+                    }
+                    .gallery-item {
                         width: 100%;
+                        position: relative;
                         overflow: hidden;
-                        border-radius: 15px;
-                        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+                        border-radius: 12px;
+                        box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+                        aspect-ratio: 1 / 1;
                     }
-                    .acrylic-banner-image img {
+                    .gallery-item img {
                         width: 100%;
-                        height: auto;
-                        display: block;
+                        height: 100%;
                         object-fit: cover;
-                        transition: transform 0.3s ease;
+                        transition: transform 0.4s ease, filter 0.4s ease;
                     }
-                    .acrylic-banner-wrapper:hover .acrylic-banner-image img {
-                        transform: scale(1.02);
+                    .gallery-item:hover img {
+                        transform: scale(1.08);
+                        filter: brightness(0.9);
                     }
-                    @media (max-width: 768px) {
-                        .acrylic-banner-wrapper {
-                            border-radius: 10px;
-                            margin-top: 30px !important;
+                    @media (max-width: 991px) {
+                        .custom-gallery-grid {
+                            grid-template-columns: repeat(2, 1fr);
+                            gap: 15px;
+                        }
+                    }
+                    @media (max-width: 575px) {
+                        .custom-gallery-grid {
+                            grid-template-columns: 1fr;
+                            gap: 15px;
                         }
                     }
                 </style>
