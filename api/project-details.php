@@ -46,10 +46,9 @@ require_once('parts/page-title.php');
                             <li>
                                 <ul class="social-links">
                                     <li>
-                                        <a href="#"><span class="icon-facebook"></span></a>
-                                        <a class="tw" href="#"><span class="icon-twitter"></span></a>
-                                        <a class="ins" href="#"><span class="icon-instagram"></span></a>
-                                        <a class="in" href="#"><span class="icon-linkedin-big-logo"></span></a>
+                                        
+                                        <a class="ins" href="https://www.instagram.com/woodenmagicinteriors?igsh=MTIwYmNncjZxanZidw==" target="_blank"><span class="icon-instagram"></span></a>
+                                        
                                     </li>
                                 </ul>
                             </li>

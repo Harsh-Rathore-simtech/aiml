@@ -29,10 +29,10 @@ require_once('parts/page-title.php');
                                 <ul class="social-links clearfix">
                                     <li class="share"><a href="#"><span class="icon-share"></span></a>
                                         <ul class="social-links-inner">
-                                            <li><a href="#"><i class="icon-linkedin-big-logo"></i></a></li>
-                                            <li><a href="#"><i class="icon-instagram"></i></a>
+                                            
+                                            <li><a href="https://www.instagram.com/woodenmagicinteriors?igsh=MTIwYmNncjZxanZidw==" target="_blank"><i class="icon-instagram"></i></a>
                                             </li>
-                                            <li><a href="#"><i class="icon-facebook"></i></a></li>
+                                            
                                         </ul>
                                     </li>
                                 </ul>
@@ -56,10 +56,10 @@ require_once('parts/page-title.php');
                                 <ul class="social-links clearfix">
                                     <li class="share"><a href="#"><span class="icon-share"></span></a>
                                         <ul class="social-links-inner">
-                                            <li><a href="#"><i class="icon-linkedin-big-logo"></i></a></li>
-                                            <li><a href="#"><i class="icon-instagram"></i></a>
+                                            
+                                            <li><a href="https://www.instagram.com/woodenmagicinteriors?igsh=MTIwYmNncjZxanZidw==" target="_blank"><i class="icon-instagram"></i></a>
                                             </li>
-                                            <li><a href="#"><i class="icon-facebook"></i></a></li>
+                                            
                                         </ul>
                                     </li>
                                 </ul>
@@ -83,10 +83,10 @@ require_once('parts/page-title.php');
                                 <ul class="social-links clearfix">
                                     <li class="share"><a href="#"><span class="icon-share"></span></a>
                                         <ul class="social-links-inner">
-                                            <li><a href="#"><i class="icon-linkedin-big-logo"></i></a></li>
-                                            <li><a href="#"><i class="icon-instagram"></i></a>
+                                            
+                                            <li><a href="https://www.instagram.com/woodenmagicinteriors?igsh=MTIwYmNncjZxanZidw==" target="_blank"><i class="icon-instagram"></i></a>
                                             </li>
-                                            <li><a href="#"><i class="icon-facebook"></i></a></li>
+                                            
                                         </ul>
                                     </li>
                                 </ul>
@@ -110,10 +110,10 @@ require_once('parts/page-title.php');
                                 <ul class="social-links clearfix">
                                     <li class="share"><a href="#"><span class="icon-share"></span></a>
                                         <ul class="social-links-inner">
-                                            <li><a href="#"><i class="icon-linkedin-big-logo"></i></a></li>
-                                            <li><a href="#"><i class="icon-instagram"></i></a>
+                                            
+                                            <li><a href="https://www.instagram.com/woodenmagicinteriors?igsh=MTIwYmNncjZxanZidw==" target="_blank"><i class="icon-instagram"></i></a>
                                             </li>
-                                            <li><a href="#"><i class="icon-facebook"></i></a></li>
+                                            
                                         </ul>
                                     </li>
                                 </ul>
@@ -137,10 +137,10 @@ require_once('parts/page-title.php');
                                 <ul class="social-links clearfix">
                                     <li class="share"><a href="#"><span class="icon-share"></span></a>
                                         <ul class="social-links-inner">
-                                            <li><a href="#"><i class="icon-linkedin-big-logo"></i></a></li>
-                                            <li><a href="#"><i class="icon-instagram"></i></a>
+                                            
+                                            <li><a href="https://www.instagram.com/woodenmagicinteriors?igsh=MTIwYmNncjZxanZidw==" target="_blank"><i class="icon-instagram"></i></a>
                                             </li>
-                                            <li><a href="#"><i class="icon-facebook"></i></a></li>
+                                            
                                         </ul>
                                     </li>
                                 </ul>
@@ -164,10 +164,10 @@ require_once('parts/page-title.php');
                                 <ul class="social-links clearfix">
                                     <li class="share"><a href="#"><span class="icon-share"></span></a>
                                         <ul class="social-links-inner">
-                                            <li><a href="#"><i class="icon-linkedin-big-logo"></i></a></li>
-                                            <li><a href="#"><i class="icon-instagram"></i></a>
+                                            
+                                            <li><a href="https://www.instagram.com/woodenmagicinteriors?igsh=MTIwYmNncjZxanZidw==" target="_blank"><i class="icon-instagram"></i></a>
                                             </li>
-                                            <li><a href="#"><i class="icon-facebook"></i></a></li>
+                                            
                                         </ul>
                                     </li>
                                 </ul>

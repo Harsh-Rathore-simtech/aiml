@@ -11,13 +11,13 @@
         <div class="contact-info">
             <div class="icon-box"><span class="icon-call"></span>
             </div>
-            <p><a href="tel:123456789">(629) 555-0129</a></p>
+            <p><a href="tel:123456789">+91 9986301995</a></p>
         </div>
         <div class="social-links">
             <ul class="clearfix list-wrap">
                 <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
                 <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+                <li><a href="https://www.instagram.com/woodenmagicinteriors?igsh=MTIwYmNncjZxanZidw==" target="_blank"><i class="fab fa-instagram"></i></a></li>
                 <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
                 <li><a href="#"><i class="fab fa-youtube"></i></a></li>
             </ul>

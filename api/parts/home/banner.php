@@ -58,10 +58,7 @@
                                     </div>
 
                                     <div class="social-links">
-                                        <a href="#"><span class="icon-facebook"></span></a>
-                                        <a href="#"><span class="icon-instagram"></span></a>
-                                        <a href="#"><span class="icon-tik-tok"></span></a>
-                                        <a href="#"><span class="icon-youtube"></span></a>
+                                        <a href="https://www.instagram.com/woodenmagicinteriors?igsh=MTIwYmNncjZxanZidw==" target="_blank"><span class="icon-instagram"></span></a>
                                     </div>
                                 </div>
                             </div>
@@ -114,10 +111,7 @@
                                     </div>
 
                                     <div class="social-links">
-                                        <a href="#"><span class="icon-facebook"></span></a>
-                                        <a href="#"><span class="icon-instagram"></span></a>
-                                        <a href="#"><span class="icon-tik-tok"></span></a>
-                                        <a href="#"><span class="icon-youtube"></span></a>
+                                        <a href="https://www.instagram.com/woodenmagicinteriors?igsh=MTIwYmNncjZxanZidw==" target="_blank"><span class="icon-instagram"></span></a>
                                     </div>
                                 </div>
                             </div>
@@ -169,10 +163,7 @@
                                     </div>
 
                                     <div class="social-links">
-                                        <a href="#"><span class="icon-facebook"></span></a>
-                                        <a href="#"><span class="icon-instagram"></span></a>
-                                        <a href="#"><span class="icon-tik-tok"></span></a>
-                                        <a href="#"><span class="icon-youtube"></span></a>
+                                        <a href="https://www.instagram.com/woodenmagicinteriors?igsh=MTIwYmNncjZxanZidw==" target="_blank"><span class="icon-instagram"></span></a>
                                     </div>
                                 </div>
                             </div>
