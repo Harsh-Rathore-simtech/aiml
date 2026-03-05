@@ -69,9 +69,7 @@ require_once('parts/page-title.php');
 
                         <div class="col-xl-6 col-lg-6">
                             <div class="contact-page__google-map">
-                                <iframe
-                                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31114.241286070217!2d77.57807485000001!3d12.8896982!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae150d7349a72b%3A0xf3d03ea1e1dd3d46!2sJ.%20P.%20Nagar%2C%20Bengaluru%2C%20Karnataka!5e0!3m2!1sen!2sin!4v1770176331998!5m2!1sen!2sin"
-                                    class="contact-page-google-map__one" allowfullscreen></iframe>
+                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d34383.50497785744!2d77.59262171583087!3d13.006366955807572!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae176311bc13c7%3A0xda1ef980cc21df5d!2sRP%20Detailing%20Studio!5e0!3m2!1sen!2sin!4v1772693399423!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                             </div>
                         </div>
                     </div>
