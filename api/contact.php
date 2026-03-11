@@ -76,64 +76,105 @@ require_once('parts/page-title.php');
                 </div>
             </div>
 
-            <div class="contact-page__bottom">
-                <!--Start Contact Two-->
-                <div class="contact-two">
-                    <div class="container">
-                        <div class="contact-two__inner">
-                            <div class="title-box">
-                                <h2>Let’s Get in Touch</h2>
-                                <p>Your email address will not be published. Required fields are marked *</p>
-                            </div>
-                            <div class="contact-two__inner-box">
-                                <form action="assets/inc/sendemail.php"
-                                    class="contact-page__form contact-form-validated">
-                                    <div class="row">
-                                        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
-                                            <div class="contact-page__input-box">
-                                                <input type="text" placeholder="Your Name*" name="name">
-                                            </div>
-                                        </div>
-                                        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
-                                            <div class="contact-page__input-box">
-                                                <input type="email" placeholder="Your Email*" name="email">
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="row">
-                                        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
-                                            <div class="contact-page__input-box">
-                                                <input type="text" placeholder="Phone*" name="phone">
-                                            </div>
-                                        </div>
-                                        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
-                                            <div class="contact-page__input-box">
-                                                <input type="text" placeholder="Subject*" name="subject">
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="row">
-                                        <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
-                                            <div class="contact-page__input-box">
-                                                <textarea name="message" placeholder="Write Message*"></textarea>
-                                            </div>
-                                            <div class="contact-page__btn">
-                                                <button class="thm-btn" type="submit"
-                                                    data-loading-text="Please wait...">
-                                                    <span class="txt">
-                                                        SEND MEASSAGE
-                                                    </span>
-                                                </button>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </form>
-                            </div>
-                        </div>
-                    </div>
+            <div class="contact-two__inner-box">
+
+<div class="contact-page__bottom">
+    <div class="contact-two">
+        <div class="container">
+            <div class="contact-two__inner">
+
+                <div class="title-box">
+                    <h2>Let’s Get in Touch</h2>
+                    <p>Your email address will not be published. Required fields are marked *</p>
                 </div>
-                <!--End Contact Two-->
+
+                <div class="contact-two__inner-box">
+
+<form action="https://api.web3forms.com/submit" method="POST"
+class="contact-page__form">
+
+<input type="hidden" name="access_key" value="79225be0-e2d7-4c29-a5e6-b9a2b23c39cf">
+<input type="checkbox" name="botcheck" style="display:none">
+
+<div class="row">
+<div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
+<div class="contact-page__input-box">
+<input 
+  type="text" 
+  placeholder="Your Name*" 
+  name="name" 
+  pattern="[A-Za-z\s]{2,50}" 
+  title="Name should contain only letters and spaces"
+  required>
+</div>
+</div>
+
+<div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
+<div class="contact-page__input-box">
+<input 
+  type="email" 
+  placeholder="Your Email*" 
+  name="email" 
+  title="Please enter a valid email address"
+  required>
+</div>
+</div>
+</div>
+
+<div class="row">
+<div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
+<div class="contact-page__input-box">
+<input 
+  type="text" 
+  placeholder="Phone*" 
+  name="phone"
+  pattern="[0-9]{10}" 
+  maxlength="10"
+  oninput="this.value=this.value.replace(/[^0-9]/g,'')"
+  title="Phone number must be exactly 10 digits"
+  required>
+</div>
+</div>
+
+<div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
+<div class="contact-page__input-box">
+<input 
+  type="text" 
+  placeholder="Subject*" 
+  name="subject" 
+  minlength="3"
+  maxlength="100"
+  required>
+</div>
+</div>
+</div>
+
+<div class="row">
+<div class="col-xl-12">
+<div class="contact-page__input-box">
+<textarea 
+  name="message" 
+  placeholder="Write Message*" 
+  minlength="10"
+  required></textarea>
+</div>
+
+<div class="contact-page__btn">
+<button class="thm-btn" type="submit">
+<span class="txt">SEND MESSAGE</span>
+</button>
+</div>
+
+</div>
+</div>
+
+</form>
+
+                </div>
             </div>
+        </div>
+    </div>
+</div>
         </section>
         <!--End Contact Page-->
         <?php require_once('parts/footer/footer.php'); ?>
