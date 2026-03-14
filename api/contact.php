@@ -44,7 +44,7 @@ require_once('parts/page-title.php');
 
                                                 <div class="content-box">
                                                     <h4>Phone</h4>
-                                                    <p><a href="tel:123456789">+91 9986301995</a></p>
+                                                    <p><a href="tel:123456789">+91 9686000076</a></p>
                                                 </div>
                                             </div>
                                         </li>

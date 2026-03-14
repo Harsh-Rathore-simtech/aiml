@@ -17,7 +17,7 @@
                                         <p>989 5th A cross, Outer Ring Rd, HRBR Layout, Kalyan Nagar, Bengaluru, Karnataka - 560113</p>
                                     </div>
                                     <div class="number-box">
-                                        <a href="tel:123456789">+91 9986301995</a>
+                                        <a href="tel:123456789">+91 9686000076</a>
                                     </div>
                                     <!-- <div class="footer-social-link">
                                         <a href="#">tw</a>

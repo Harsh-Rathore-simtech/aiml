@@ -11,7 +11,7 @@
         <div class="contact-info">
             <div class="icon-box"><span class="icon-call"></span>
             </div>
-            <p><a href="tel:123456789">+91 9986301995</a></p>
+            <p><a href="tel:123456789">+91 9686000076</a></p>
         </div>
         <div class="social-links">
             <ul class="clearfix list-wrap">
